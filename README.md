@@ -1,1 +1,1 @@
-Обучающие проекты на Python.
+Training Python.
